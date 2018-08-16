@@ -1,8 +1,9 @@
 # Build your say_hello method here
 def say_hello(name)
   if name
-    print "Hello #{name}"
+    puts "Hello #{name}"
   else
-    print "Hello Ruby Programmer!"
+    
+    puts "Hello Ruby Programmer!"
   end
 end
